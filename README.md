@@ -1,3 +1,3 @@
 Python-Sample
 =============
-Here i am doing basic python programs.
+Here i am done some basic python programs.
